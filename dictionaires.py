@@ -1,4 +1,3 @@
-"""
 prix_fruits = {'orange' : 150, 'papaye' : 200, 'mangue' : 300}
 # print(prix_fruits)
 
@@ -80,7 +79,6 @@ prix_fruits = {'orange' : 150,
 prix_fruits['orange'] = 350
 print(prix_fruits)
 
-"""
 
 prix_fruits = {'orange' : 150, 
                'papaye' : 200, 

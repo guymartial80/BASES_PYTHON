@@ -1,4 +1,3 @@
-"""
 age = 18
 
 if age >= 18:
@@ -49,7 +48,6 @@ else:
     print("Une des conditions n\'est pas respectée")
 
 
-"""
 
 fruits = ["pomme", "banane", "orange", "mangue"]
 choix_fruit = input("Quel fruit voulez-vous ? (pomme, banane, orange, mangue) : ")
